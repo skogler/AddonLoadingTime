@@ -1,0 +1,9 @@
+## Interface: 120001
+## Title: AddonLoadingTime
+## Notes: Measures per-addon loading times on startup. Type /alt or /AddonLoadingTime to view results.
+## Author: Claude
+## Version: 1.0
+## Category: Development Tools
+## DefaultState: Enabled
+
+AddonLoadingTime.lua

@@ -1,0 +1,4 @@
+package-as: !!AddonLoadingTime
+license-output: LICENSE
+ignore:
+  - .gitignore
