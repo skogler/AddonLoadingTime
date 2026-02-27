@@ -4,9 +4,11 @@ A simple tool to see how much time each of your addons takes to load.
 
 ## How it works
 
-The addon folder is named `!!AddonLoadingTime` so that the game loads it first. This allows it to track the loading time of every other addon that follows.
-
 When you log in, the UI will automatically pop up with the results.
+
+Just disable the addon once you are done profiling.
+
+The addon folder is named `!!AddonLoadingTime` so that the game loads it first. This allows it to track the loading time of every other addon that follows.
 
 ## Usage
 
